@@ -1,0 +1,18 @@
+@import "variables";
+
+.baslik {
+  font-family: $font-second;
+  white-space: nowrap;
+  letter-spacing: 3px;
+}
+
+.hover {
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.design {
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+}
